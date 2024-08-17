@@ -1,0 +1,33 @@
+body {
+    background-color: grey;
+
+    }
+
+h1 { 
+    background: white;
+    border: ridge black 5px;
+    margin-top: 80px;
+    padding: 12px;
+    text-align: center;
+    b
+    }
+ p { 
+    background: white;
+    border: ridge black 5px;
+    margin-top: 40px;
+    font-size: 20px;
+    padding: 12px;
+
+   }
+ .img {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 100px;
+    
+     }
+  img {
+    margin-bottom: 100px;
+    margin-top: 50px;
+    width: 400px;
+      }
